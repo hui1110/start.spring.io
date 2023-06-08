@@ -124,3 +124,7 @@ push the application:
 == License
 The start.spring.io website is Open Source software released under the
 https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+
+<a href="https://yonghui-dev-apps-deploy-webapp.azuremicroservices.io/deploy.html?url=https://github.com/hui1110/start.spring.io&branch=main&module=web" data-linktype="external">
+    <img src="https://user-images.githubusercontent.com/58474919/236122963-8c0857bb-3822-4485-892a-445fa33f1612.png" alt="Deploy to Azure" width="200px" data-linktype="relative-path">
+</a>
